@@ -10,3 +10,7 @@ django-crispy-forms>=1.7.2
 pillow>=5.4.1
 
 thats all you need
+
+then while in the directory run 
+
+python manage.py runserver
